@@ -1,4 +1,4 @@
-# File: template_consts.py
+# File: opencti_consts.py
 #
 # Copyright (c) 2025 Splunk Inc.
 #
@@ -14,10 +14,10 @@
 # and limitations under the License.
 
 # API endpoints
-TEMPLATE_CONNECTIVITY_ENDPOINT = "/endpoint/to/test/connectivity"
+OPENCTI_CONNECTIVITY_ENDPOINT = "/endpoint/to/test/connectivity"
 
 # Error messages
-TEMPLATE_ERR_CONNECTIVITY_TEST = "Test Connectivity Failed"
+OPENCTI_ERR_CONNECTIVITY_TEST = "Test Connectivity Failed"
 
 # Success messages
-TEMPLATE_SUCC_CONNECTIVITY_TEST = "Test Connectivity Passed"
+OPENCTI_SUCC_CONNECTIVITY_TEST = "Test Connectivity Passed"
